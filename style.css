@@ -55,7 +55,7 @@ table td
     width: 200px;
 }
 
-#footer
+footer
 {
     color: black;
     margin-top: 10px;
@@ -73,9 +73,4 @@ table td
     background-color: yellow;
 }
 
-.footer
-{
-color: purple;
-    margin-left: auto;
-    margin-right: auto;
-}
+

@@ -70,5 +70,12 @@ table td
 
 .highlight
 {
-    background-color: purple;
+    background-color: yellow;
+}
+
+.footer
+{
+color: purple;
+    margin-left: auto;
+    margin-right: auto;
 }
